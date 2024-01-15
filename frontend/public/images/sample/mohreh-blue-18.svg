@@ -1,0 +1,150 @@
+
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 35" width="35" height="35">
+	<title>18-svg</title>
+	<defs>
+		<image width="11" height="7" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAHCAYAAADebrddAAAACXBIWXMAAAsSAAALEgHS3X78AAAARElEQVQYlWNkQAfFrf/hIr3VKPIIDrIidADVBFGMTyGSLYwMNf3/Gb5/QxHEZRsLLvehiEE1MeFUiAVAFBPhXgYGBgYAUdQWH5WDtW8AAAAASUVORK5CYII="/>
+		<image width="7" height="5" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAFCAYAAACJmvbYAAAACXBIWXMAAAsSAAALEgHS3X78AAAANUlEQVQImWNkYGBg0NDQ+A+iYeDGjRtgcSZNTU0UCWTFTMzMzOhycAUs6Eah6ESXgAMGBgYAdKMPBuH4B74AAAAASUVORK5CYII="/>
+		<image width="1" height="3" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAADCAYAAABS3WWCAAAACXBIWXMAAAsSAAALEgHS3X78AAAAF0lEQVQImWNobW39z8TAwMDAxMDAwAAAH2UCkwzY6YMAAAAASUVORK5CYII="/>
+		<image width="4" height="5" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAYAAABirU3bAAAACXBIWXMAAAsSAAALEgHS3X78AAAANUlEQVQImWNkgIKurq7/rKysDEwwgd+/f4NpltbW1v8wQRCAqwCBwsJCRrhAdXU1IwMDAwMAEyAK/RJTZ1YAAAAASUVORK5CYII="/>
+		<image width="4" height="5" id="img5" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAYAAABirU3bAAAACXBIWXMAAAsSAAALEgHS3X78AAAAH0lEQVQImWNobW39z4AEmEAEsiAjVhXIgBFFCwMDAwAFQQo/p1Q4nAAAAABJRU5ErkJggg=="/>
+		<image width="4" height="7" id="img6" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAHCAYAAAAvZezQAAAACXBIWXMAAAsSAAALEgHS3X78AAAANUlEQVQImWNABjo6Ov+ZkAX+///PwAzjaGho/AfRYBUwDggwInNu3LjBiGIGXAtMloGBgQEAIUkOBDSI3O4AAAAASUVORK5CYII="/>
+		<image width="4" height="6" id="img7" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAGCAYAAADkOT91AAAACXBIWXMAAAsSAAALEgHS3X78AAAAI0lEQVQImWPQ0ND4z4AEmJA5cAFkVYzoWhgxVMAYYEEGBgYAYHEHW4qs9PkAAAAASUVORK5CYII="/>
+		<image width="4" height="7" id="img8" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAHCAYAAAAvZezQAAAACXBIWXMAAAsSAAALEgHS3X78AAAAK0lEQVQImWNobW39z4AEGJEFqqurGVEEwCpABLIgWABdEA5AgkwoIgwMDACt4xDN6ZI1tQAAAABJRU5ErkJggg=="/>
+		<image width="4" height="6" id="img9" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAGCAYAAADkOT91AAAACXBIWXMAAAsSAAALEgHS3X78AAAANElEQVQImT2K2w0AMAgCQTuM+0/jMCRtNNX74KEQn4i45ZwwGLmj5rg7JCEz+2MlU/awAHg1ogsNkuKkbQAAAABJRU5ErkJggg=="/>
+		<image width="1" height="2" id="img10" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAACXBIWXMAAAsSAAALEgHS3X78AAAAEklEQVQImWPQ0dH5z8TAwMAAAAouAYZf9mapAAAAAElFTkSuQmCC"/>
+		<image width="4" height="6" id="img11" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAGCAYAAADkOT91AAAACXBIWXMAAAsSAAALEgHS3X78AAAAKElEQVQImWPQ0ND4z4AEGJEFbty4wYgiAFYBIpAFwQLognCgoaHxHwB/sgtYPUN5uQAAAABJRU5ErkJggg=="/>
+		<image width="5" height="8" id="img12" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAICAYAAAAx8TU7AAAACXBIWXMAAAsSAAALEgHS3X78AAAAPElEQVQImWNkQAKtra3/QTRcECYAF0QWAAEmEMHFxQUXqK6uZmSaMmUKXBVIAK4SWQAMkFWimIkCGBgYAJ0XEaCi67MjAAAAAElFTkSuQmCC"/>
+		<image width="1" height="3" id="img13" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAADCAYAAABS3WWCAAAACXBIWXMAAAsSAAALEgHS3X78AAAAF0lEQVQImWPo7+//z8TAwMDAxMDAwAAAIOsCsWCM9VIAAAAASUVORK5CYII="/>
+		<image width="4" height="5" id="img14" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAYAAABirU3bAAAACXBIWXMAAAsSAAALEgHS3X78AAAAJElEQVQImWNgKG79z4AEmJA5IMCIoqK3mhFVAKwCBGCCDAwMAHTvCOuicgNDAAAAAElFTkSuQmCC"/>
+		<image width="4" height="5" id="img15" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAYAAABirU3bAAAACXBIWXMAAAsSAAALEgHS3X78AAAAJElEQVQImWNAATX9/xnhAsWt/0EURADKgQggcUCACcWM3mpGAJOuCP4MY5qiAAAAAElFTkSuQmCC"/>
+		<image width="1" height="3" id="img16" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAADCAYAAABS3WWCAAAACXBIWXMAAAsSAAALEgHS3X78AAAAF0lEQVQImWPQ0ND4z8TAwMDAxMDAwAAAEToBfN4YEhgAAAAASUVORK5CYII="/>
+		<image width="1" height="7" id="img17" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAHCAYAAADJTCeUAAAACXBIWXMAAAsSAAALEgHS3X78AAAAF0lEQVQImWNobW39z8TAwMCAnWBgYAAAU0UCm3GHwrcAAAAASUVORK5CYII="/>
+		<image width="1" height="7" id="img18" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAHCAYAAADJTCeUAAAACXBIWXMAAAsSAAALEgHS3X78AAAAHklEQVQImWOYMmXKfyYGBgYGpt+/fzNAWEgEAwMDAJy5Bbnj/3BwAAAAAElFTkSuQmCC"/>
+		<image width="12" height="8" id="img19" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAICAYAAADN5B7xAAAACXBIWXMAAAsSAAALEgHS3X78AAAAS0lEQVQYlZWPQQoAIAgEt17jwf+/xde4YUGUEJgnQWdW8VOqyi4irDIk0aOpQu6+gEqFNBJatptZy4JzZw5//ti2ChTpV/wL2mcCGF0cHdWR5I4JAAAAAElFTkSuQmCC"/>
+		<image width="30" height="13" id="img20" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAANCAYAAAC+ct6XAAAACXBIWXMAAAsSAAALEgHS3X78AAAAeklEQVQ4jcWTUQqAMAxDU68siOC3IIJnVqaIssXSoa35HG1el3WCdlyRtAyCCPXzzmtCYES/gQ+luM/IvTk0ak945h0f9dTJBb5vtMetiaeoBW+/mOJXGivFX0E5mDWRxkcZe4sDFZ6bWfaBQHWwdYBKoB1cO4DlSQBsfVk03RUQTo4AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #006f80 } 
+		.s1 { fill: #262626 } 
+		.s2 { fill: #808080 } 
+		.s3 { fill: #00c2df } 
+		.s4 { fill: #424242 } 
+		.s5 { fill: #dfdfdf } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<g id="Layer">
+					<g id="Layer">
+						<path id="Layer" class="s0" d="m11.2 9.2h1.9v1.7h-1.9z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s0" d="m11.2 9.2v1.7l-3.5 1.9v-1.7z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s1" d="m10.9 11.3h0.1v1.7h-0.1z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s1" d="m8 12.4v1.8l-0.3-1.4v-1.7z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s1" d="m10.9 11.3v1.7l-2.1 1.2v-1.8z"/>
+					</g>
+					<use id="Layer" href="#img1" transform="matrix(1,0,0,1,19,8)"/>
+					<use id="Layer" href="#img2" transform="matrix(1,0,0,1,21,10)"/>
+					<g id="Layer">
+						<path id="Layer" class="s0" d="m21.6 12.4h5.4v1.7h-5.4z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s0" d="m13.1 12.4h6.4v1.7h-6.4z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s0" d="m29.2 12.4h2.7v1.7h-2.7z"/>
+					</g>
+					<use id="Layer" href="#img3" transform="matrix(1,0,0,1,29,12)"/>
+					<use id="Layer" href="#img4" transform="matrix(1,0,0,1,24,13)"/>
+					<use id="Layer" href="#img5" transform="matrix(1,0,0,1,21,13)"/>
+					<use id="Layer" href="#img6" transform="matrix(1,0,0,1,26,12)"/>
+					<use id="Layer" href="#img7" transform="matrix(1,0,0,1,19,13)"/>
+					<use id="Layer" href="#img8" transform="matrix(1,0,0,1,26,16)"/>
+					<use id="Layer" href="#img9" transform="matrix(1,0,0,1,21,17)"/>
+					<use id="Layer" href="#img10" transform="matrix(1,0,0,1,21,21)"/>
+					<use id="Layer" href="#img11" transform="matrix(1,0,0,1,24,17)"/>
+					<use id="Layer" href="#img12" transform="matrix(1,0,0,1,18,16)"/>
+					<use id="Layer" href="#img13" transform="matrix(1,0,0,1,27,21)"/>
+					<use id="Layer" href="#img3" transform="matrix(1,0,0,1,21,21)"/>
+					<g id="Layer">
+						<path id="Layer" class="s2" d="m21.1 21.7h6.4v1.7h-6.4z"/>
+					</g>
+					<use id="Layer" href="#img14" transform="matrix(1,0,0,1,21,21)"/>
+					<use id="Layer" href="#img15" transform="matrix(1,0,0,1,24,21)"/>
+					<g id="Layer">
+						<path id="Layer" class="s3" d="m24.3 24.1c-1.8 0-2.9-1-3.2-2.4h6.4c-0.2 1.4-1.4 2.4-3.2 2.4z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" fill-rule="evenodd" class="s4" d="m26.5 16.8c2 0.8 3.3 2.2 3.3 4.2 0 0.3 0 0.5-0.1 0.7-0.4 2.4-2.6 4-5.5 4-3.2 0-5.2-1.8-5.4-4 0-0.1 0-0.3 0-0.4 0-2 1.2-3.5 3.2-4.3v-0.1c-1.8-0.9-2.6-2.2-2.6-3.7 0-0.3 0-0.6 0.1-0.8 0.4-2.1 2.4-3.5 4.9-3.5 2.9 0 4.5 1.7 4.7 3.5 0 0.2 0 0.3 0 0.5 0.1 1.4-0.6 2.9-2.6 3.9zm1 4.9c0-0.2 0-0.3 0-0.5 0-2-1.4-2.9-3.6-3.5-1.9 0.5-2.9 1.8-2.9 3.3 0 0.2 0 0.5 0.1 0.7 0.3 1.3 1.4 2.4 3.2 2.4 1.8 0 3-1 3.2-2.4zm-6-8.6c0 1.6 1.2 2.5 3.1 3 1.4-0.5 2.5-1.5 2.5-3 0-0.2 0-0.5-0.1-0.7-0.2-1-1.1-1.9-2.7-1.9-1.5 0-2.5 0.8-2.7 1.9 0 0.2-0.1 0.5-0.1 0.7z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s3" d="m24.4 10.5c1.6 0 2.4 0.9 2.7 1.9h-5.4c0.2-1.1 1.1-1.9 2.7-1.9z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s3" d="m8.8 12.4l2.1-1.1h0.1v1.1z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s0" d="m8.8 12.4h2.2v1.7h-2.2z"/>
+					</g>
+					<use id="Layer" href="#img16" transform="matrix(1,0,0,1,18,21)"/>
+					<g id="Layer">
+						<path id="Layer" class="s2" d="m13.1 21.7h5.7v1.7h-5.7z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s4" d="m13.1 9.2v3.2 9.3 3.7h-2.1v-3.7-9.3-1.1h-0.1l-2.1 1.1-0.7 0.4-0.1-0.4-0.3-1.3 3.5-1.9z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s3" d="m18 2.5c6.4 0 11.9 4.1 13.9 9.9h-2.7c-0.2-1.8-1.8-3.5-4.7-3.5-2.5 0-4.5 1.4-4.9 3.5h-6.4v-3.2h-1.9l-3.6 1.9 0.3 1.3h-3.9c2-5.7 7.4-9.9 13.9-9.9z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s0" d="m4.1 12.4h3.9v1.7h-3.9z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s1" d="m8.8 12.4v1.8l-0.7 0.3v-1.7z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s1" d="m8.1 12.8v1.7l-0.1-0.3v-1.8z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s5" d="m24.6 16.1c-1.9-0.5-3.1-1.4-3.1-3 0-0.2 0-0.5 0.1-0.7h5.4c0.1 0.2 0.1 0.5 0.1 0.7 0 1.5-1.1 2.5-2.5 3z"/>
+					</g>
+					<use id="Layer" href="#img17" transform="matrix(1,0,0,1,3,17)"/>
+					<g id="Layer">
+						<path id="Layer" class="s5" d="m24 17.7c2.2 0.6 3.6 1.6 3.6 3.5 0 0.2 0 0.4 0 0.5h-6.4c0-0.2-0.1-0.5-0.1-0.7 0-1.5 1-2.8 2.9-3.3z"/>
+					</g>
+					<use id="Layer" href="#img18" transform="matrix(1,0,0,1,32,17)"/>
+					<use id="Layer" href="#img19" transform="matrix(1,0,0,1,18,20)"/>
+					<g id="Layer">
+						<path id="Layer" class="s5" d="m31.9 12.4c0.5 1.5 0.8 3.1 0.8 4.9 0 1.6-0.3 3.1-0.7 4.5h-2.3c0-0.2 0.1-0.5 0.1-0.7 0-2-1.3-3.4-3.3-4.2v-0.1c2-0.9 2.7-2.4 2.7-3.8 0-0.2 0-0.3 0-0.5h2.7z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s2" d="m29.7 21.7h2.3v1.7h-2.3z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s5" d="m22 17c-2 0.8-3.2 2.3-3.2 4.3 0 0.1 0 0.3 0 0.4h-5.7v-9.3h6.4c-0.1 0.3-0.1 0.5-0.1 0.8 0.1 1.5 0.8 2.8 2.6 3.8z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s5" d="m8.1 12.8l0.7-0.4h2.2v9.3h-7c-0.5-1.4-0.7-2.9-0.7-4.5 0-1.7 0.3-3.3 0.8-4.9h3.9z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s2" d="m3.9 21.7h7v1.7h-7z"/>
+					</g>
+					<g id="Layer">
+						<path id="Layer" class="s1" d="m11 25.4h2.1v1.7h-2.1z"/>
+					</g>
+					<use id="Layer" href="#img20" transform="matrix(1,0,0,1,3,21)"/>
+					<g id="Layer">
+						<path id="Layer" class="s3" d="m29.7 21.7h2.3c-1.9 6-7.5 10.3-14 10.3-6.6 0-12.2-4.3-14-10.3h7v3.7h2.1v-3.7h5.7c0.2 2.2 2.2 4 5.4 4 2.9 0 5.2-1.6 5.5-4z"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
